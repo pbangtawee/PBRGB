@@ -1,0 +1,5 @@
+PBRGB  KEYWORD1
+begin  KEYWORD2
+color  KEYWORD2
+colorSet  KEYWORD2
+adjustBrightness  KEYWORD2
